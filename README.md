@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DAYceng
-- 👀 I’m interested in python/java/Electronic games/various styles of music
+- 👀 I’m interested in Electronic games/various styles of music
 - 🌱 I’m currently learning NLP/GAN/network traffic analysis
 - 📫 How to reach me dayceng@hotmail.com
 
