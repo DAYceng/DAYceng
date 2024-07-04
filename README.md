@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DAYceng
 - 👀 I’m interested in video games/various styles of music
-- 🌱 I’m currently learning NLP/GAN/network traffic analysis
 - 📫 How to reach me dayceng@hotmail.com
 
 <!---
